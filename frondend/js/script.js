@@ -2,7 +2,7 @@ const feed = document.getElementById("feed");
 const tweetInput = document.getElementById("tweetInput");
 const tweetButton = document.querySelector(".tweet-box button");
 
-const API = "http://localhost:3000";
+const API = "https://fight-tweet-wall.onrender.com";
 
 // -----------------------------
 // LOAD TWEETS
